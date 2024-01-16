@@ -13,6 +13,5 @@ O Projeto será composto por 3 Recursos (Conjunto de Classes e Interfaces respon
 
 ## 🛠️ Construído com
 
-* Exemplo - O framework web usado.
-* Exemplo - Gerente de Dependência.
-* Exemplo - Usada para gerar RSS.
+* Spring Boot - Framework web usado.
+* Maven - Gerenciador de dependência.
